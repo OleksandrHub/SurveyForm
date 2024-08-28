@@ -1,5 +1,5 @@
 # SurveyForm
-<img src="https://github.com/OleksandrHub/SurveyForm/blob/main/pr-1.PNG?raw=true" alt="project screen" width="50">
+<img src="https://github.com/OleksandrHub/SurveyForm/blob/main/pr-1.PNG?raw=true" alt="project screen" width="60%" align="center">
 - **Description:**
 
 **Project:** Website for a professional photographer.
