@@ -1,5 +1,23 @@
 # SurveyForm
-- **Description:** 
+<img src="pr-1.png" alt="project screen" width="50vw">
+- **Description:**
+
+**Project:** Website for a professional photographer.
+
+**Goal:** To create a simple, intuitive, and elegant website that showcases the creativity and professionalism of photographer Ustym Tytarenko, while providing a user-friendly interface for booking photoshoots.
+
+**Key Features:**
+1. **Biography and Professional Achievements:** The homepage briefly introduces the photographer, his approach to work, and his professional experience.
+2. **Booking Form:** An interactive form allows clients to easily book a photoshoot by selecting the type of service and additional materials, such as color or black-and-white photos.
+3. **Creative Design:** The website uses a pleasant color scheme with a focus on photography to draw attention to the photographer's work.
+4. **Feedback:** Built-in functionality to leave comments or special requests for the photoshoot.
+
+**Technical Aspects:**
+- Modern web technologies are used to ensure fast page loading and responsive design, making it convenient to view on various devices.
+- The booking form is protected from spam and ensures the security of transmitted data.
+
+**Target Audience:** People looking for a professional photographer for personal, family, or commercial photoshoots.
+ 
 - **Tech Stack:**
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
